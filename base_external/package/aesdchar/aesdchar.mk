@@ -1,4 +1,4 @@
-AESDCHAR_VERSION = '765b971fdaa38b4499d0344925da8d4d5a2a3bad'
+AESDCHAR_VERSION = '5d5d225c0b8135db27493b146fb0296a7d7fe924'
 AESDCHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-damarre89.git'
 AESDCHAR_SITE_METHOD = git
 AESDCHAR_GIT_SUBMODULES = YES
