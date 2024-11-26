@@ -1,4 +1,7 @@
-# buildroot-rpi
+# Project overview
+[Link to documentation](https://github.com/cu-ecen-aeld/final-project-damarre89/wiki/Overview)
+
+## buildroot-rpi
 
 This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
 
